@@ -16,7 +16,7 @@ Sebuah *command-line tool* sederhana berbasis Node.js untuk mengekstrak seluruh 
 
 1. *Clone repository* ini atau *download* sebagai ZIP:
    ```bash
-   git clone https://github.com/USERNAME_KAMU/wa-group-exporter.git
+   git clone https://github.com/sweetbrittle/wa-group-exporter.git
    cd wa-group-exporter
    ```
 
